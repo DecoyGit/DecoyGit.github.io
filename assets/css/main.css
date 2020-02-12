@@ -2723,7 +2723,7 @@ header p {
 
 header h2 + p {
 	font-size: 1.25rem;
-	margin-top: -1rem;
+	margin-top: 1rem;
 }
 
 header h3 + p {
@@ -4331,8 +4331,8 @@ body.subpage {
 .banner > article .inner > :last-child {
 	margin-bottom: 0;
 }
-
-{
+/* large---------- */
+.banner > article h2 {
 	font-size: 4rem;
 	margin-bottom: 0;
 	color: #fff;
@@ -4423,6 +4423,8 @@ body.is-loading .banner:after {
 	.banner > article p {
 		margin-bottom: 1rem;
 	}
+	/* smalll */
+	.banner > article h2 {
 		font-size: 2em;
 	}
 }
