@@ -4332,7 +4332,7 @@ body.subpage {
 	margin-bottom: 0;
 }
 
-.banner > article h2 {
+{
 	font-size: 4rem;
 	margin-bottom: 0;
 	color: #fff;
@@ -4425,7 +4425,7 @@ body.is-loading .banner:after {
 	}
 
 	.banner > article h2 {
-		font-size: 4em;
+		font-size: 2em;
 	}
 }
 
