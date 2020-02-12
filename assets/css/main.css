@@ -4423,8 +4423,6 @@ body.is-loading .banner:after {
 	.banner > article p {
 		margin-bottom: 1rem;
 	}
-
-	.banner > article h2 {
 		font-size: 2em;
 	}
 }
